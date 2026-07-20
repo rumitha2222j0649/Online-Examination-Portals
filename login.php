@@ -98,7 +98,7 @@ body{
 
 <p>Login to access your examinations</p>
 
-<form action="student_dashboard.php" method="POST">
+<form action="login_process.php" method="POST">
 
 <div class="input-group">
 <label>Email Address</label>
@@ -120,7 +120,7 @@ Login
 
 <p>
 Don't have an account?
-<a href="register.php">Register</a>
+<a href="registration.php">Register</a>
 </p>
 
 </div>
